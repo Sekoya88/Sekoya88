@@ -16,7 +16,7 @@
 
 ### About
 
-I architect **production-grade** multi-agent LLM pipelines, RAG systems, and serverless AI backends — then ship them to prod with the discipline of a 2h46 marathoner. Currently building cross-cloud AI solutions at **Formalis.IA** (AWS + GCP), automating complex legal document workflows at scale. When I'm not orchestrating autonomous agents, I'm logging 15h/week of training for the next marathon.
+I architect **production-grade** multi-agent LLM pipelines, RAG systems, and serverless AI backends — then ship them to prod with the discipline of an athlete training 10-15h a week. Currently building cross-cloud AI solutions at **Formalis.IA** (AWS + GCP), automating complex legal document workflows at scale.
 
 ---
 
@@ -162,13 +162,11 @@ Custom pipeline combining vision-language models with real-time market data.
 <tr>
 <td width="50%" valign="top">
 
-**[🏃 AI Training Tracker](https://github.com/Sekoya88)**
+**[🌿 EcoChain](https://github.com/Sekoya88/EcoChain)**
 
-Full-stack coaching app with custom RAG (pgvector) over a **10k+ page** athletic corpus
+Sustainable ledger system integrating localized predictive analytics with robust backend infrastructure.
 
-`95% retrieval relevance` · saves coaches 2+ hours weekly
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -203,7 +201,7 @@ End-to-end ML pipeline with Stacking Ensemble (XGBoost, RF, GBM, Ridge)
 
 | | |
 |---|---|
-| 🏅 **Marathon** | 2h46 PB — Bruges 2024 · 12-15h training/week |
+| 🏃 **Athletics** | `800m 1'55"77` · `1500m 3'58` · `3000m 8'48` · `5km 15'19` · `10km 33'20` · `HM 1:14'` · `M 2:46'` |
 | 🧗 **Rock Climbing** | Since age 4 — translating route-reading into system design |
 | 🏉 **Rugby** | 9 years competitive · international matches across Asia |
 | 🌏 **Expatriate** | 3+ years in Bangkok, Thailand · fluent FR / EN / ES |
