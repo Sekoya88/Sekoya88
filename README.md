@@ -7,7 +7,7 @@
 
   ![Location](https://img.shields.io/badge/Bordeaux%2C_France-121212?style=flat&logo=googlemaps&logoColor=white)
   ![Role](https://img.shields.io/badge/LLM_Engineer_@_Formalis.IA-121212?style=flat&logo=openai&logoColor=white)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-edmond)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-edmond8/)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nicolasedmond8@gmail.com)
 
 </div>
@@ -184,21 +184,6 @@ End-to-end ML pipeline with Stacking Ensemble (XGBoost, RF, GBM, Ridge)
 </td>
 </tr>
 </table>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sekoya88&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="160" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sekoya88&theme=github-dark-blue&hide_border=true&background=0D1117" height="160" alt="streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sekoya88&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="150" alt="languages" />
-</div>
 
 ---
 
