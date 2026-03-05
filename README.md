@@ -1,114 +1,98 @@
 <div align="center">
-  <h1>Nicolas Edmond</h1>
-  <h3>ML / AI Engineer</h3>
-  <p><em>Architecting production-grade LLM systems, multi-agent pipelines, and RAG architectures.</em></p>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-edmond)
-  [![Location](https://img.shields.io/badge/Bordeaux_FR-121212?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+  <h1 align="center">NICOLAS EDMOND</h1>
+  <p align="center">
+    <strong>ML / AI Engineer</strong>
+    <br>
+    Bordeaux, France
+  </p>
+  <p align="center">
+    Architecting production-grade LLM systems, multi-agent pipelines, and RAG architectures.
+  </p>
+  <br>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/nicolas-edmond">LinkedIn</a>
+    ·
+    <a href="mailto:nicolasedmond8@gmail.com">Email</a>
+    ·
+    <a href="https://github.com/Sekoya88">GitHub</a>
+  </p>
 </div>
 
----
+<br><br>
 
-## 🧠 About Me
+## THE PHILOSOPHY
 
-I engineer autonomous AI systems that solve complex, real-world problems. Currently working as an **LLM Engineer @ Formalis.IA**, I specialize in taking Generative AI out of the notebook and into robust, serverless production environments.
+> *Building production-grade AI systems from first principles.*
 
-My engineering philosophy borrows heavily from my athletic background as a marathoner (2h46 PB) and rock climber: **build for endurance, optimize the micro-metrics, and execute with relentless discipline.** Whether orchestrating a multi-agent ReAct pipeline or fine-tuning a forecasting model, I focus on scalable architecture and measurable impact.
+High-performance engineering requires the same mindset as high-performance sports. As a marathoner (**2h46 PB**), a rock climber since age 4, and a former international rugby player, I treat system architecture like an endurance event: **build for the long term, optimize the micro-metrics, and execute with relentless discipline.** 
 
----
-
-## ⚙️ Technical Arsenal
-
-<div align="center">
-  
-**AI & Machine Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Vertex AI](https://img.shields.io/badge/GCP_Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5-8E75B2?style=flat-square&logo=googlebard&logoColor=white)
-
-**Backend & Cloud Infrastructure**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-**Data & Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F00?style=flat-square)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)
-
-</div>
-
----
-
-## 🚀 Featured Deployments
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>🛡️ <a href="https://github.com/Sekoya88/Agentic-Credit-Geopolitical-Risk">Agentic Credit & Geopolitical Risk Framework</a></h3>
-      <p><b>Architecture:</b> Multi-agent LLM Pipeline (LangGraph, ReAct), ChromaDB RAG, Redis, Streamlit.</p>
-      <p><b>Impact:</b> Orchestrates 3 specialized autonomous agents to generate CRO-level integrated risk reports in under 60 seconds.</p>
-      <p>📉 <b>Metric:</b> <code>100% pipeline completion rate</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>📚 AI Training Tracker</h3>
-      <p><b>Architecture:</b> Next.js full-stack app powered by a pgvector-based RAG architecture.</p>
-      <p><b>Impact:</b> Parses and retrieves complex organizational knowledge to streamline training tracking across the enterprise.</p>
-      <p>📉 <b>Metrics:</b> <code>10k+ pages corpus processed</code> • <code>95% retrieval relevance</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>⚡ PCBA Cost Prediction (Schneider Electric)</h3>
-      <p><b>Architecture:</b> Advanced Stacking Ensemble Machine Learning model.</p>
-      <p><b>Impact:</b> High-precision manufacturing cost forecasting to optimize global supply chain expenditures.</p>
-      <p>📉 <b>Metrics:</b> <code>MAPE: 9.05%</code> • <code>R²: 0.972</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 💼 Professional Experience
-
-**LLM Engineer @ Formalis.IA** *(Sep 2025 – Present)*
-> Designing serverless architectures (AWS Lambda/DynamoDB) for scalable legal document automation. Leading the deployment of state-of-the-art multimodal models via GCP Vertex AI (Gemini 2.5 Flash).
-
-**Project Engineer @ RTE** *(2022 – 2025)*
-> Engineered robust ETL pipelines processing high-volume data for 300+ wind farms using PostgreSQL and Oracle. Developed ARIMA/SARIMA forecasting models for critical energy grid analytics.
-
----
-
-## 🧗‍♂️ Beyond the Code
-
-High-performance engineering requires the same mindset as high-performance sports. When I'm not tuning multi-agent systems or optimizing vector searches, you'll find me:
-
-*   🏃‍♂️ **Pushing limits on the road:** Marathon runner with a strict training regimen leading to a **2h46 PB**.
-*   🧗‍♂️ **Solving physical puzzles:** Rock climbing since age 4, translating route-reading skills to system architecture.
-*   🏉 **Building team resilience:** 9 years of competitive rugby, including international play.
-*   🌍 **Exploring new contexts:** Former expatriate in Bangkok and fluent in **FR / EN / ES**.
-
----
-
-## 📊 Telemetry
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sekoya88&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=c9d1d9" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sekoya88&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=c9d1d9" height="165" alt="Top Languages" />
-</div>
+My focus is bringing Generative AI out of the notebook and into robust, scalable, serverless production environments. I specialize in orchestrating complex, multi-agent workflows and building resilient backends that can handle real-world edge cases. 
 
 <br>
 
+## TECHNICAL ARSENAL
+
+I build with a strong foundation in software engineering principles (*Clean Architecture, DDD, TDD*) while leveraging the vast ML ecosystem.
+
+| Domain | Technologies |
+|---|---|
+| **LLM Ecosystem** | `LangChain` `LangGraph` `LlamaIndex` `LoRA/QLoRA` `vLLM` `Unsloth` `Ollama` |
+| **ML & AI** | `PyTorch` `TensorFlow` `Hugging Face` `Scikit-Learn` `OpenCV` `Pandas` `NumPy` |
+| **Languages** | `Python` `C/C++` `SQL` `TypeScript` `JavaScript` `Java` `R` `Bash` |
+| **Backend** | `FastAPI` `AsyncIO` `SQLAlchemy` `Pydantic` `WebSockets` `REST APIs` `Next.js` |
+| **Cloud & DevOps**| `Docker` `Kubernetes` `AWS (Lambda, S3, ECS)` `GCP (Vertex AI)` `Terraform` `CI/CD` |
+| **Databases** | `PostgreSQL (pgvector)` `Redis` `MongoDB` `Oracle` `ChromaDB` |
+
+<br>
+
+## FEATURED ARCHITECTURES
+
+### 01 / Agentic Credit & Geopolitical Risk Assessment
+**Architecture:** Multi-agent LLM Pipeline (LangGraph, ReAct), ChromaDB RAG, Redis, Streamlit.
+
+Designed a production-grade multi-agent pipeline orchestrating 3 specialized autonomous agents (Geopolitical, Credit Risk, Market) to generate CRO-level integrated risk reports in under 60 seconds. Implemented the ReAct pattern with dynamic tool binding (DuckDuckGo, Yahoo Finance, vector databases) and engineered a deterministic supervisor with LLM-based re-routing and fault-tolerant state management via Redis checkpointing.
+* **Impact:** Achieved a **100% pipeline completion rate** across 50+ test runs, handling rigorous API rate limits with exponential backoff.
+
+### 02 / AI Training Tracker & Coaching Assistant
+**Architecture:** TypeScript, Next.js, PostgreSQL (pgvector), Prisma, HuggingFace Inference.
+
+Developed a full-stack Next.js application automating personalized athletic training plans. Engineered a custom RAG pipeline using `pgvector` to retrieve context from a 10,000+ page specialized running corpus. Orchestrated dynamic LLM integration via a custom TypeScript abstraction layer.
+* **Impact:** Saved coaches over 2 hours weekly while maintaining **95% retrieval relevance accuracy**.
+
+### 03 / PCBA Cost Prediction Pipeline
+**Architecture:** Python, scikit-learn, XGBoost, Stacking Ensemble Learning.
+
+Engineered an end-to-end ML pipeline for Schneider Electric to predict manufacturing costs. Designed a robust Stacking Ensemble (XGBoost, RF, GBM, Ridge) coupled with target log1p-transformation to process complex distributions dynamically. Improved reliability by eradicating data leakage and establishing a resilient preprocessing workflow.
+* **Impact:** Reduced MAPE from 15.6% to **9.05%** and achieved an **R² of 0.972**.
+
+<br>
+
+## PROFESSIONAL EXPERIENCE
+
+**LLM Engineer** | Formalis.IA *(Sep 2025 – Present)*  
+Engineered an advanced AI architecture leveraging GCP Vertex AI to automate the analysis of complex legal and corporate documents. Containerized the serverless AI solution on AWS Lambda (Docker/ARM64) and DynamoDB, replacing legacy systems with a highly modular object-oriented architecture and managing infrastructure as code (IaC) via AWS SAM.
+
+**Project Engineer** | RTE *(Sep 2022 – Sep 2025)*  
+Architected large-scale ETL pipelines processing thousands of daily telemetry data points via PostgreSQL and Oracle, eliminating 200+ hours of manual data wrangling annually. Engineered a predictive analytics platform leveraging Time Series Forecasting (ARIMA/SARIMA) for 300+ wind farms, enhancing grid balancing accuracy by 15%.
+
+<br>
+
+## EDUCATION & RESEARCH
+
+- **Specialized Master in Big Data** — GEM & Ensimag *(2025 – 2026)*
+- **Engineering (Electrical & Energy)** — ESME *(2022 – 2025)*
+- **Stanford Certifications** — Machine Learning & Deep Learning Specializations *(2025)*
+
+*Areas of Research:* Mathematical modeling, information theory, Markov chains, Bayesian inference.
+
+<br>
+
+## BEYOND THE TERMINAL
+
+Living across cultures (former expatriate in Bangkok, fluent in French, English, and conversational Spanish) has shaped my adaptability. Whether I am training 15-hours a week for a marathon, volunteering in humanitarian aid (ESME Sans Frontières), or diving into literature and philosophy, I approach life with the same intensity and curiosity that I bring to engineering.
+
+<br><br>
+
 <div align="center">
-  <i>Always open to discussing agentic architectures, MLOps, or marathon pacing strategies.</i><br>
-  <b><a href="https://www.linkedin.com/in/nicolas-edmond">Let's collaborate</a></b>
+  <a href="mailto:nicolasedmond8@gmail.com"><b>Start a conversation ↗</b></a>
 </div>
