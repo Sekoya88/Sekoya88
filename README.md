@@ -212,7 +212,7 @@ End-to-end ML pipeline with Stacking Ensemble (XGBoost, RF, GBM, Ridge)
   <br>
   <b>Open to:</b> Senior LLM Engineering roles · Agentic AI projects · Research collaborations
   <br><br>
-  <a href="https://www.linkedin.com/in/nicolas-edmond">
+  <a href="https://www.linkedin.com/in/nicolas-edmond8">
     <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
