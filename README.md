@@ -136,7 +136,7 @@ I architect **production-grade** multi-agent LLM pipelines, RAG systems, and ser
 <tr>
 <td width="50%" valign="top">
 
-**[🛡️ Agentic Credit & Geopolitical Risk](https://github.com/Sekoya88/Agentic-Credit-Geopolitical-Risk)**
+**[🛡️ Agentic Credit & Geopolitical Risk](https://github.com/Sekoya88/RiskAnalysis)**
 
 Multi-agent LLM pipeline → CRO-level risk reports in **<60s**
 
